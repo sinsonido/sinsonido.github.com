@@ -104,9 +104,7 @@ header {
 header ul {
   list-style:none;
   height:40px;
-  
   padding:0;
-  
   background: #eee;
   background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
